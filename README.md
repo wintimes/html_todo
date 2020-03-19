@@ -1,0 +1,5 @@
+# html_todo
+html_css_javascrpit
+主要进行html的todo项目的实现，通过实验楼训练营的项目进行基础底层代码的练习。
+注意：html、css、javascript等都是最为基础的例程，通过激发读者兴趣，并且仅仅介绍了能够满足html开发todo的最基本的基本功来实现todo。
+
