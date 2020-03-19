@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>我是标题</title>
+  </head>
+<body>
+  <input type="button" value="点击弹出" class="btn" />
+</body>
+<script>
+  document.getElementsByClassName("btn")[0].onclick = function() {
+    alert("已找到class");
+  };
+  /*注意：一定要写上 [0]，因为 getElementsByClassName
+  找到的是一个数组，在这里表示找到的第一个 btn。*/
+</script>
+
+
+</html>
