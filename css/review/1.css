@@ -1,0 +1,16 @@
+body {
+    background: pink;
+}
+h1{
+    color: red;
+    font-size: 12px;
+    text-align: center;
+}
+#set1 {
+    text-align: center;
+    color: blue;
+
+}
+.center {
+    text-align: center;
+}
